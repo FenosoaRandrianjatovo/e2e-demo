@@ -5,7 +5,7 @@
 
 This repository is an introductory project of end-to-end machine learning, where the different stages of a Machine Learning project lifecycle are discussed. 
 
-This repo contains different Folder :
+This repository contains different Folder :
 
 
 * data : Contains all the data used for the training part.
